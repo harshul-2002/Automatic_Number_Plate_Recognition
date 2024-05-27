@@ -2,3 +2,4 @@ ultralytics
 opencv-python
 torch
 pytesseract
+pillow
